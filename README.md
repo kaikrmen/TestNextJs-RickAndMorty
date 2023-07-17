@@ -1,8 +1,10 @@
 
-# Pruba rick and morty 
+# Pruba rick and morty
 
-Frontend en nextJS consumiento la Api creada con graphql 
+Utilizar node 16.10.0 en adelante para correr el proyecto
 
-Correr el proyecto con npm run dev para el modo development 
+Frontend en nextJS consumiento la Api creada con graphql
+
+Correr el proyecto con npm run dev para el modo development
 
 Muentra el listado de humanos y en vez de una paginacion hay un Load more
